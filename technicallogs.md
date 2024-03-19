@@ -3,6 +3,7 @@ Date: March 18, 2024 | Time Duration: 5:30pm to 7:30pm | Total Time: 2 hours.
 Publishing a map service into ArcGIS Server on GCP VM (part of Week 7 & 8 checklist)
 1.	Open ArcGIS Pro->Insert->Connections->Server->New ArcGIS Server
    <img width="263" alt="Screenshot 2024-03-18 173439" src="https://github.com/gracecavanagh/geom99/assets/151089198/b625ddea-837c-4c01-b299-edaf6e269043">
+   
 2.	Add your IP address /arcgis as the Server URL, and username and the password given in the checklist. Press OK and ignore the certificate pop-up.
  ![image](https://github.com/gracecavanagh/geom99/assets/151089198/1892aaa6-a691-48a8-9d9b-dc9b0b03c93d)
 3. Make sure your VM is up and running, and that the same data you're about to publish is already located on the VM (and you know the file path).
