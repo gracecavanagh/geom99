@@ -1,4 +1,4 @@
-Date March 21, 2024 | Time Duration : 3pm to 3:10pm | Total Time: 10 minutes
+Date March 21, 2024 | Time Duration : 3pm to 3:30pm | Total Time: 30 minutes
 Digitizing 2D Trees to 3D Trees in Scene Viewer (loosely done using this tutorial: https://enterprise.arcgis.com/en/portal/latest/use/quick-exercise-scenes.htm)
 1.	Open Scene Viewer and navigate in the search bar to your location
 2.	Click add layer in the left bar, and click ArcGIS Web server, then input the REST endpoint URL. The image(s) below is the data shown as 2D points
