@@ -1,4 +1,5 @@
 Date: March 8, 2024 | Time Duration: 11pm to 11:30am | Total Time: 30 minutes.
+
 GCP - Creating a VM and using the provided image 
 (Done using Shawn’s video https://www.youtube.com/watch?v=dyFeyBX9jIY)
 1.	Sign into GCP.
