@@ -13,23 +13,36 @@ Adding the Portland Test Scene to 3D Viewer Instant App
 <img width="219" alt="Screenshot 2024-03-21 152452" src="https://github.com/gracecavanagh/geom99/assets/151089198/6584403f-5815-4aeb-9189-42540118ad3b">
 
 Header: creates a bar at the top of your scene with the title of the app on it.
+
 Text alt for the map: allows you to create a text alt in case the map does not show up
+
 Shortcuts menu: adds a button for users to toggle keyboard shortcuts
+
 Legend: allows users to view the legend if you created one in Scene Viewer.
+
 Enable hover pop-up: lets you enable pop-up info windows
+
 Fixed pop-up location: lets you enable the pop-up window to stay in one place when moving around
+
 Pop-up position: Lets you pick where the pop-up information window appears when users click on an object.
 
 6.	I went through and selected most of the options, just so I could see what they all allow me to do once I’ve published the scene.
 
 <img width="207" alt="Screenshot 2024-03-21 152522" src="https://github.com/gracecavanagh/geom99/assets/151089198/41b2b982-be70-4665-a098-70312878ed11">
 <img width="210" alt="Screenshot 2024-03-21 152606" src="https://github.com/gracecavanagh/geom99/assets/151089198/753b5460-90c9-4a1b-b968-1b825c1562a6">
+
 Layer list: allows users to see the list of layers used
+
 Sharing: allows users to share to social media or with a link.
+
 Search: allows users to see and use a search bar
+
 Search configuration: what is the source of data used for searching with the search bar
+
 Select a mode: Either light or dark buttons/features
+
 Select a present theme: Picks the colour of the accents
+
 Manage widget positions: lets you pick where each button sits
 
 7.	Hit publish and edit share settings and size if you wish, then hit Launch to get taken to the published 3D Viewer.
