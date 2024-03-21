@@ -1,4 +1,4 @@
-*Date March 21, 2024 | Time Duration: 3:10pm to 3:30pm | Total Time: 20 minutes*
+*Date March 21, 2024 | Time Duration: 3:30pm to 4pm | Total Time: 30 minutes*
 
 Adding the Portland Test Scene to 3D Viewer Instant App
 1.	Open Instant Apps and select the 3D option.
