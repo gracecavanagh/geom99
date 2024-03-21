@@ -1,4 +1,4 @@
-Week 10 & 11 Technical Log | Total time for this log: 
+Week 10 & 11 Technical Log | Total time for this log: UNFINISHED (still need to copy in the rest of the word doc)
 
 Date: March 18, 2024 | Time Duration: 5:30pm to 7:30pm | Total Time: 2 hours.
 
@@ -24,7 +24,7 @@ Publishing a map service into ArcGIS Server on GCP VM (part of Week 7 & 8 checkl
 10. Server Manager View: <img width="537" alt="Screenshot 2024-03-18 192454" src="https://github.com/gracecavanagh/geom99/assets/151089198/2560ad9c-88a4-4dae-a673-eb32716a1373">
 
 _______________________________________________________________________________
-Week 7 & 8 Step by Step Technical Log | Total time for this log: 3.5 hours.
+Week 7 & 8 Step by Step Technical Log | Total time for this log: 3.5 hours (plus appx. 3 hours of troubleshooting the original problems)
 Date: March 8, 2024 | Time Duration: 11pm to 11:30am | Total Time: 30 minutes.
 GCP - Creating a VM and using the provided image 
 (Done using Shawn’s video https://www.youtube.com/watch?v=dyFeyBX9jIY)
@@ -77,7 +77,7 @@ Connecting to ArcGIS REST Endpoint and Manager
 (Done using Shawn’s video https://www.youtube.com/watch?v=dyFeyBX9jIY)
 1.	After the IP address in the search bar, add /arcgis/rest/services and it will take you to the REST endpoint. Now you know ArcGIS Server is running.
 2.	To get to the Manager, add /arcgis/manager instead after the IP address.
-**Spent about an hour because I had issues getting into the Server Manager without being on the VM itself and couldn’t understand why. Still have not been able to figure that out, tried multiple ports. I’ll be exploring that more in the future and updating. Also had to troubleshoot a bit with accessing the VM through the Remote Desktop but Lilit and I helped each other out.**
+**Spent about an hour because I had issues getting into the Server Manager without being on the VM itself and couldn’t understand why. I redid the process to get screenshots and it worked, so I believe I went wrong somewhere with my IP address in the first try.*
 
 Date: March 8, 2024 | Time Duration: 12:30am to 2:00am | Total Time: 1.5 hours.
 Consuming Server Data into ArcGIS Online
@@ -91,5 +91,5 @@ Consuming Server Data into ArcGIS Online
 4.	Click on Share -> share as Web Map
 5.	Resolve all warnings and/or errors -> Click Share.
 6.	Do NOT attempt to open this in AGOL when you have stopped the VM. It can lead to problems.
-** It was easy to get everything set up but I spent a really long time troubleshooting. Even though my VM was still running, for some reason the entire map would just not show up in AGOL. Not even the basemap. I still do not know why. At first, it was because I only shared a certain part of the data which actually did allow a basemap to show up in AGOL, but never the actual Map Service. When I corrected myself and added the entire Map Service, absolutely nothing would show up in AGOL when I opened it in Map Viewer including a basemap. In the weeks to come I’ll be troubleshooting this again and adding it to logs because I couldn’t even resolve it by discussing it with classmates who were successful. ** 
+** It was easy to get everything set up but I spent a really long time troubleshooting. Shawn nicely reminded me that without Duck DNS and the certificate, I wouldn't be able to see it in AGOL. I also found out everyone else had the same issue and didn't know why either. But it's working now."
  
