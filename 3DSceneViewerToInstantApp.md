@@ -23,5 +23,19 @@ Pop-up position: Lets you pick where the pop-up information window appears when 
 6.	I went through and selected most of the options, just so I could see what they all allow me to do once I’ve published the scene.
 
 <img width="207" alt="Screenshot 2024-03-21 152522" src="https://github.com/gracecavanagh/geom99/assets/151089198/41b2b982-be70-4665-a098-70312878ed11">
+<img width="210" alt="Screenshot 2024-03-21 152606" src="https://github.com/gracecavanagh/geom99/assets/151089198/753b5460-90c9-4a1b-b968-1b825c1562a6">
+Layer list: allows users to see the list of layers used
+Sharing: allows users to share to social media or with a link.
+Search: allows users to see and use a search bar
+Search configuration: what is the source of data used for searching with the search bar
+Select a mode: Either light or dark buttons/features
+Select a present theme: Picks the colour of the accents
+Manage widget positions: lets you pick where each button sits
 
 7.	Hit publish and edit share settings and size if you wish, then hit Launch to get taken to the published 3D Viewer.
+   <img width="323" alt="Screenshot 2024-03-21 152635" src="https://github.com/gracecavanagh/geom99/assets/151089198/0590911b-11f0-4fd2-a1eb-4a92441991d7">
+   <img width="228" alt="Screenshot 2024-03-21 152710" src="https://github.com/gracecavanagh/geom99/assets/151089198/a64a8e4b-ac92-40ab-92cf-8909a4010d8f">
+   <img width="1276" alt="Screenshot 2024-03-21 152820" src="https://github.com/gracecavanagh/geom99/assets/151089198/f07bcdb6-6efe-4d22-95a6-bc1db3ba2811">
+
+
+
