@@ -1,6 +1,6 @@
 *Date March 20, 2024 | Time Duration: 3:30pm to 4:30pm | Total Time: 1 hr (also experimenting)*
 
-Adding the Portland Test Scene to 3D Viewer Instant App
+Adding the Portland Test Scene to 3D Viewer Instant App 
 1.	Open Instant Apps and select the 3D option.
 2.	Select the scene you want to add
    <img width="756" alt="Screenshot 2024-03-21 151122" src="https://github.com/gracecavanagh/geom99/assets/151089198/936d0dcd-534b-4147-a1c6-68faf8036df3">
